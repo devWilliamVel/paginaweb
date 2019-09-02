@@ -18,3 +18,5 @@
 
 
 
+var myh4 = document.getElementById("myh4");
+myh4.textContent = "Este es mi h4";
