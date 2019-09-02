@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function(){
+/*document.addEventListener('DOMContentLoaded', function(){
 	window.onscroll = function(){
 		var div1 = document.getElementById('div1');
 		var div2 = document.getElementById('div2');
@@ -14,16 +14,7 @@ document.addEventListener('DOMContentLoaded', function(){
 		console.log('Top: ' + div2Top);
 		console.log('Bottom: ' + div2Bottom);
 	}
-});
+});*/
 
 
 
-
-
-
-http://testwilliam.bpm-power.com/responsive-it/home/action_page.php?firstname=wil&email=wil%40gmail.com&n_or=242526&subject=non+trovo+la+mia+mail
-
-
-<script>
-document.getElementById('').removeAttribute("disabled");
-</script>
